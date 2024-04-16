@@ -1,6 +1,6 @@
 #  About Me
 
-- 🔭 I’m currently student at **VIT, Pune**.
+- 🔭 I’m currently final year student at **VIT, Pune**.
 - 🌱 I’m currently pursuing Btech in **Artificial Intelligence & Data Science**.
 - 👯 I’m looking to collaborate on insightful repo's
 - 🤔 I’m looking for help with getting familiar with **open-source contributions**.
